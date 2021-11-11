@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying at LNCT Bhopal.
 - 👯 Open to collaborate and learn about new technologies.
 - 🌱Always passionate for learning more about tech and life.
-- 🌐 Visit my [porfolio website](https://himanshusingh.netlify.app/) for complete background and contact.
+- 🌐 Visit my [portfolio website](https://himanshusingh.netlify.app/) for complete background and contact.
 
 
 To connect with me,
